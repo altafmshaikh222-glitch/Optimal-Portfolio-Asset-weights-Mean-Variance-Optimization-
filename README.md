@@ -1,0 +1,2 @@
+# Optimal-Portfolio-Asset-weights-Mean-Variance-Optimization-
+Constrained Mean Variance Portfolio Optimization in Python using SciPy &amp; NumPy. Implement Modern Portfolio Theory (MPT) across Nifty 50 equity constituents to calculate optimal asset weights, minimize portfolio volatility, and construct efficient frontiers based on historical covariance matrices and targeted returns, built for quantitative analysis
